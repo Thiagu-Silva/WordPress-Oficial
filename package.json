@@ -1,0 +1,24 @@
+{
+  "name": "wordpress-oficial",
+  "version": "1.0.0",
+  "description": "Projeto oficial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiagu-Silva/WordPress-Oficial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiagu-Silva/WordPress-Oficial/issues"
+  },
+  "homepage": "https://github.com/Thiagu-Silva/WordPress-Oficial#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "jquery": "^3.6.1",
+    "popper.js": "^1.16.1"
+  }
+}
